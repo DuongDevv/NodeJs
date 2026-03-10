@@ -1,0 +1,3 @@
+- start mysql in xampp
+- dowload npm i mysql2 in vscode
+- you can reading about mysql2 at https://sidorares.github.io/node-mysql2/docs
